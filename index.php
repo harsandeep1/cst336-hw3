@@ -34,62 +34,62 @@
          <div id ="type" class ="text"> 
         </div>
         <section id="carousel">
-            <div id="carouselExampleControls" class="carousel slide" data-ride="false">
+            <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img class="poke-image" src="img/poke0.png" alt="poke-profile">
+                        <img class="poke-image" class="d-block w-100" src="img/poke0.png" alt="poke-profile">
                     </div>
                     <div class="carousel-item">
-                        <img class="poke-image" src="img/poke1.png" alt="poke-profile">
+                        <img class="poke-image" class="d-block w-100" src="img/poke1.png" alt="poke-profile">
                     </div>
                     <div class="carousel-item">
-                        <img class="poke-image" src="img/poke2.png" alt="poke-profile">
+                        <img class="poke-image" class="d-block w-100" src="img/poke2.png" alt="poke-profile">
                     </div>
                     <div class="carousel-item">
-                        <img class="poke-image" src="img/poke3.png" alt="poke-profile">
+                        <img class="poke-image" class="d-block w-100" src="img/poke3.png" alt="poke-profile">
                     </div>
                     <div class="carousel-item">
-                        <img class="poke-image" src="img/poke4.png" alt="poke-profile">
+                        <img class="poke-image" class="d-block w-100" src="img/poke4.png" alt="poke-profile">
                     </div>
                     <div class="carousel-item">
-                        <img class="poke-image" src="img/poke5.png" alt="poke-profile">
+                        <img class="poke-image" class="d-block w-100" src="img/poke5.png" alt="poke-profile">
                     </div>
                     <div class="carousel-item">
-                        <img class="poke-image" src="img/poke6.png" alt="poke-profile">
+                        <img class="poke-image" class="d-block w-100" src="img/poke6.png" alt="poke-profile">
                     </div>
                     <div class="carousel-item">
-                        <img class="poke-image" src="img/poke8.png" alt="poke-profile">
+                        <img class="poke-image" class="d-block w-100" src="img/poke8.png" alt="poke-profile">
                     </div>
                     <div class="carousel-item">
-                        <img class="poke-image" src="img/poke11.png" alt="poke-profile">
+                        <img class="poke-image" class="d-block w-100" src="img/poke11.png" alt="poke-profile">
                     </div>
                     <div class="carousel-item">
-                        <img class="poke-image" src="img/poke12.png" alt="poke-profile">
+                        <img class="poke-image" class="d-block w-100" src="img/poke12.png" alt="poke-profile">
                     </div>
                     <div class="carousel-item">
-                        <img class="poke-image" src="img/poke13.png" alt="poke-profile">
+                        <img class="poke-image" class="d-block w-100" src="img/poke13.png" alt="poke-profile">
                     </div>
                     <div class="carousel-item">
-                        <img class="poke-image" src="img/poke14.png" alt="poke-profile">
+                        <img class="poke-image" class="d-block w-100" src="img/poke14.png" alt="poke-profile">
                     </div>
                     <div class="carousel-item">
-                        <img class="poke-image" src="img/poke15.png" alt="poke-profile">
+                        <img class="poke-image" class="d-block w-100" src="img/poke15.png" alt="poke-profile">
                     </div>
                     <div class="carousel-item">
-                        <img class="poke-image" src="img/poke16.png" alt="poke-profile">
+                        <img class="poke-image" class="d-block w-100" src="img/poke16.png" alt="poke-profile">
                     </div>
                     <div class="carousel-item">
-                        <img class="poke-image" src="img/poke17.png" alt="poke-profile">
+                        <img class="poke-image" class="d-block w-100" src="img/poke17.png" alt="poke-profile">
                     </div>
-                    <div class="carousel-item">
-                        <img class="poke-image" src="img/poke18.png" alt="poke-profile">
-                    </div>
-                    <div class="carousel-item">
-                        <img class="poke-image" src="img/poke19.png" alt="poke-profile">
-                    </div>
-                    <div class="carousel-item">
-                        <img class="poke-image" src="img/poke20.png" alt="poke-profile">
-                    </div>
+                    <!--<div class="carousel-item">-->
+                    <!--    <img class="poke-image" src="img/poke18.png" alt="poke-profile">-->
+                    <!--</div>-->
+                    <!--<div class="carousel-item">-->
+                    <!--    <img class="poke-image" src="img/poke19.png" alt="poke-profile">-->
+                    <!--</div>-->
+                    <!--<div class="carousel-item">-->
+                    <!--    <img class="poke-image" src="img/poke20.png" alt="poke-profile">-->
+                    <!--</div>-->
                 </div>
                 <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>

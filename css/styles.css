@@ -7,7 +7,7 @@ header,main,nav,footer {
 h1 {
     
     text-align: center;
-    color: #F6BD20;
+    color: #C52018;
 }
 
 .submit{
@@ -19,11 +19,12 @@ h1 {
 #carousel{
     background-color: #F6BD20;
     text-align: center;
+    height: 40%;
 }
 
 
 .btn{
-    font-size: 1rem;
+    font-size: 1.3rem;
     padding: 10px 10px;
     font-weight: normal;
     margin-top: 1%;
@@ -47,9 +48,9 @@ h1 {
 
 .text{
     color: #C52018;
-    text-align:center;
+    text-align: center;
     margin: 3rem;
-    font-size: 2rem;
+    font-size: 1.3rem;
         
 }
 
@@ -57,7 +58,9 @@ h1 {
     font-size: 1.3rem;
     border-radius: 15px;
     background-color: #F6BD20;
-    padding: 10px 10px;
+    padding: 5px 5px;
+    color: #C52018;
+   
 }
 
 .header { 
